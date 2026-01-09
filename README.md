@@ -28,3 +28,5 @@ Hardware & Embedded System
 - ![Image](https://github.com/user-attachments/assets/4c21b41d-41b4-4ae5-b390-72187b1bf54a)
 - ![Image](https://github.com/user-attachments/assets/8a2319e3-d9a3-4bf7-bc8a-d2c019c2d1b4)
 
+## AVP
+- https://drive.google.com/file/d/1ce5pYUUwfTsL623PdSzLFnCZ1P5M0xTb/view?usp=sharing

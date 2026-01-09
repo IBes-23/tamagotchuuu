@@ -1,16 +1,23 @@
-# tamagotchuuu
+## TAMA-GOTCHU!
 
-A new Flutter project.
+TamaGotchu is a capstone project developed to address child safety concerns by providing an integrated emergency alert and real-time location tracking system for guardians of APHS. 
+The project combines hardware and a mobile app to enable rapid response during potential threat or emergency situations involving children.
 
-## Getting Started
+## 🛠️ Technologies Used
+Mobile Application
+- Dart
+- Flutter
 
-This project is a starting point for a Flutter application.
+Backend & Cloud Services
+- Firebase
+  - Firebase Realtime Database
+  - Firebase Authentication
 
-A few resources to get you started if this is your first Flutter project:
+Hardware & Embedded System
+- MicroPython
+- A9G GSM/GPRS + GPS Module
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🎯 Project Objectives
+- To develop a mobile-based emergency alert system that allowed children to send immediate distress signals to their guardians.
+- To enable real-time location updates from the safety device to the mobile application using GPS and cloud-based services.
+- To integrate IoT hardware with cloud-based backend services to ensure reliable communication between the safety device and the mobile application.
